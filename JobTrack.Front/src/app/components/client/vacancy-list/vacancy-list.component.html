@@ -1,0 +1,24 @@
+<div class="vacancy-list container">
+  <h2 class="my-4">Vacancies</h2>
+  
+  <div *ngIf="vacancies.length === 0" class="alert alert-warning">
+    <p>Vacancies not found.</p>
+  </div>
+  
+  <div *ngIf="!selectedVacancy" class="row">
+    <div class="col-md-6" *ngFor="let vacancy of vacancies">
+      <div class="card mb-4">
+        <div class="card-body">
+          <h5 class="card-title">{{ vacancy.title }}</h5>
+          <p class="card-text"><strong>Description:</strong> {{ vacancy.description }}</p>
+          <p class="card-text"><strong>Deadline:</strong> {{ vacancy.deadline | date: 'mediumDate' }}</p>
+          <p class="card-text"><strong>Status:</strong> {{ vacancy.status ? 'Active' : 'Not Active' }}</p>
+          <button class="btn btn-primary" (click)="applyForVacancy(vacancy)">Apply</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <app-application-form *ngIf="selectedVacancy" [vacancy]="selectedVacancy" (close)="selectedVacancy = null"></app-application-form>
+</div>
+

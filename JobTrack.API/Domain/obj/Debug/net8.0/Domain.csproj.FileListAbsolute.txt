@@ -1,0 +1,12 @@
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/bin/Debug/net8.0/Domain.dll
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/obj/Debug/net8.0/Domain.dll
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/ahmadovmaz/Desktop/heap/DOTNET/Projects/JobTrack/JobTrack.API/Domain/obj/Debug/net8.0/ref/Domain.dll

@@ -1,0 +1,16 @@
+.admin-vacancy-container {
+    display: flex;                   
+    height: 100vh; 
+
+    app-admin-vacancy-list{
+        flex: 2;
+        box-sizing: border-box;
+        padding: 20px;
+    }
+
+    app-admin-vacancy-form {
+        flex: 1;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+}
